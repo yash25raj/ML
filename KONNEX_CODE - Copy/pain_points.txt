@@ -1,0 +1,10 @@
+order: 632
+app: 562
+delivery: 420
+customer: 351
+product: 328
+time: 302
+item: 297
+service: 251
+zepto: 245
+worst: 213
